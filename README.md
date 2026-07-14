@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash23332/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash23332/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash23332/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
