@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/akash23332/LeetCode/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Tree
@@ -72,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
