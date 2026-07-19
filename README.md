@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akash23332/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/akash23332/LeetCode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/akash23332/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash23332/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akash23332/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/akash23332/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
