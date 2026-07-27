@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akash23332/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akash23332/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/akash23332/LeetCode/tree/master/0704-binary-search) |
 | [0938-range-sum-of-bst](https://github.com/akash23332/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akash23332/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
