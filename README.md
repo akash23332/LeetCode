@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akash23332/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akash23332/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash23332/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Number Theory
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash23332/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
+| [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akash23332/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
