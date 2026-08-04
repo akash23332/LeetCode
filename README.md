@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akash23332/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/akash23332/LeetCode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akash23332/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/akash23332/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash23332/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash23332/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/akash23332/LeetCode/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/akash23332/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash23332/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash23332/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Greedy
+|  |
+| ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/akash23332/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
