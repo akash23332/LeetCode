@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akash23332/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/akash23332/LeetCode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash23332/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akash23332/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Breadth-First Search
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akash23332/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akash23332/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/akash23332/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akash23332/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash23332/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 ## Geometry
 |  |
@@ -328,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/akash23332/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
