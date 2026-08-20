@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akash23332/LeetCode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
+| [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akash23332/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/akash23332/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/akash23332/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Database
