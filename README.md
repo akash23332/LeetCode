@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akash23332/LeetCode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/akash23332/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/akash23332/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/akash23332/LeetCode/tree/master/0541-reverse-string-ii) |
