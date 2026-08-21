@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akash23332/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/akash23332/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akash23332/LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/akash23332/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akash23332/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akash23332/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash23332/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/akash23332/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/akash23332/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akash23332/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akash23332/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
