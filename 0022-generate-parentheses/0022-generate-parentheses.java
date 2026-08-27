@@ -1,15 +1,21 @@
 class Solution {
+    List<String> ans=new ArrayList<>();
     public List<String> generateParenthesis(int n) {
-        List<String> ans=new ArrayList<>();
-        generate(n,0,0,"",ans);
+        para( n ,0,0,"");
         return ans;
     }
-    public void generate(int n,int l,int r,String s,List<String> ans){
-        if(r==n){
+    public void para(int n ,int close ,int open,String s){
+        if(close==n){
             ans.add(s);
             return;
-        } 
-        if(l<n) generate(n,l+1,r, s+"(",ans);
-        if(r<l) generate(n,l,r+1,s+")",ans);
+        }
+
+        if(open<n){
+            para(n,close,open+1,s+"(");
+        }
+        if(close<open){
+            para(n,close+1,open,s+")");
+        }
+
     }
 }
