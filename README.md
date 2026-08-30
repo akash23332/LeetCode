@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akash23332/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akash23332/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akash23332/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/akash23332/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/akash23332/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akash23332/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akash23332/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akash23332/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/akash23332/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/akash23332/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/akash23332/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/akash23332/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash23332/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akash23332/LeetCode/tree/master/0242-valid-anagram) |
