@@ -207,12 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/akash23332/LeetCode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/akash23332/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/akash23332/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/akash23332/LeetCode/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/akash23332/LeetCode/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/akash23332/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/akash23332/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akash23332/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Breadth-First Search
