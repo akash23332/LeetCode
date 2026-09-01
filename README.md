@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/akash23332/LeetCode/tree/master/0113-path-sum-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/akash23332/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akash23332/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/akash23332/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/akash23332/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/akash23332/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/akash23332/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/akash23332/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akash23332/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash23332/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/akash23332/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akash23332/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/akash23332/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
