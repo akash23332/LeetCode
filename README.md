@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/akash23332/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/akash23332/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/akash23332/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/akash23332/LeetCode/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/akash23332/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/akash23332/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akash23332/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Breadth-First Search
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akash23332/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
+| [1079-letter-tile-possibilities](https://github.com/akash23332/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
+| [1079-letter-tile-possibilities](https://github.com/akash23332/LeetCode/tree/master/1079-letter-tile-possibilities) |
 ## Geometry
 |  |
 | ------- |
