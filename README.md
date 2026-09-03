@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash23332/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/akash23332/LeetCode/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akash23332/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/akash23332/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash23332/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/akash23332/LeetCode/tree/master/0143-reorder-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akash23332/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akash23332/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/akash23332/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akash23332/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akash23332/LeetCode/tree/master/0342-power-of-four) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akash23332/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/akash23332/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akash23332/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/akash23332/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
