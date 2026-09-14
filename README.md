@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/akash23332/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akash23332/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akash23332/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/akash23332/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akash23332/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akash23332/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/akash23332/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/akash23332/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akash23332/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/akash23332/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akash23332/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akash23332/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
 | [1079-letter-tile-possibilities](https://github.com/akash23332/LeetCode/tree/master/1079-letter-tile-possibilities) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akash23332/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2418-sort-the-people](https://github.com/akash23332/LeetCode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
