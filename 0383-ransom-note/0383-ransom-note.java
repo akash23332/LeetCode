@@ -1,22 +1,24 @@
 class Solution {
-    public boolean canConstruct(String a, String b) {
-        int[] freq1=new int[26];
-        int[] freq2=new int[26];
-        for(int i=0;i<a.length();i++){
-            freq1[a.charAt(i)-'a']++;
-        }
-        for(int i=0;i<b.length();i++){
-            freq2[b.charAt(i)-'a']++;
-        }
-        for(int i=0;i<26;i++){
-            if(freq1[i]>freq2[i]){
-                return false;
-                
-               
-            }
-            
-        }
-        return true;
+    public boolean canConstruct(String ransomNote, String magazine) {
+        HashMap<Character,Integer> map1=new HashMap<>();
         
+        for(int i=0;i<ransomNote.length();i++){
+            char ch=ransomNote.charAt(i);
+            map1.put(ch,map1.getOrDefault(ch,0)+1);
+        }
+        for(int i=0;i<magazine.length();i++){
+            char ch=magazine.charAt(i);
+            if(map1.containsKey(ch)){
+                map1.put(ch,map1.get(ch)-1);
+                if(map1.get(ch)==0){
+                map1.remove(ch);
+            }
+                
+            }
+           
+           
+        }
+        return map1.isEmpty();
+
     }
 }
