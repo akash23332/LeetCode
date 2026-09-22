@@ -1,22 +1,24 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-
-        if (s.length() != t.length()) {
-            return false;
-        }
-        int[] feq1=new int[26];
-        int[] feq2=new int[26];
+        HashMap<Character,Integer> map=new HashMap<>();
         for(int i=0;i<s.length();i++){
-            feq1[s.charAt(i)-'a']++;
-            feq2[t.charAt(i)-'a']++;
-        }
-        
-        for(int i=0;i<26;i++){
-            if(feq1[i]!=feq2[i]){
-                return false;
+            if(!map.containsKey(s.charAt(i))){
+                map.put(s.charAt(i),1);
+            }
+            else{
+                map.put(s.charAt(i),map.get(s.charAt(i))+1);
             }
         }
-        return true;
-        
+         for(int i=0;i<t.length();i++){
+            if(!map.containsKey(t.charAt(i))){
+                return false;
+            }
+            map.put(t.charAt(i),map.get(t.charAt(i))-1);
+            if(map.get(t.charAt(i))==0){
+                map.remove(t.charAt(i));
+            }
+        }
+        return map.isEmpty();
+
     }
 }
