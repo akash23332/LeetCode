@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/akash23332/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akash23332/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akash23332/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/akash23332/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akash23332/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akash23332/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/akash23332/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akash23332/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/akash23332/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akash23332/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akash23332/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash23332/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akash23332/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/akash23332/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/akash23332/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/akash23332/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/akash23332/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash23332/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akash23332/LeetCode/tree/master/0217-contains-duplicate) |
