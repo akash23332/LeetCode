@@ -1,38 +1,40 @@
-class pair implements Comparable<pair>{
-    int ele;
-    int freq;
-    pair(int ele,int freq){
-        this.ele=ele;
-        this.freq=freq;
-    }
-    public int compareTo(pair p){
-        if(this.freq==p.freq){
-            return Integer.compare(this.ele,p.ele);
-        }
-        return Integer.compare(this.freq,p.freq);
-
-    }
-}
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
+        ArrayList<Integer> ans=new ArrayList<>();
         HashMap<Integer,Integer> map=new HashMap<>();
-        for(int ele:nums){
-            map.put(ele,map.getOrDefault(ele,0)+1);
-        } 
-        PriorityQueue<pair> pq=new PriorityQueue<>();
-        for(int ele:map.keySet()){
-            int freq=map.get(ele);
-            pq.add(new pair(ele,freq));
-            if(pq.size()>k) pq.remove();
-         }
-         int[] ans = new int[k];
+        for(int n:nums){
+            map.put(n,map.getOrDefault(n,0)+1);
+        }
+        while(k>0){
+            int max=0;
+        int val=0;
+        for(int n:map.keySet()){
+            
+            
+                if(map.get(n)>max){
+                    max=map.get(n);
+                    val=n;
+                    
 
-        for (int i = k - 1; i >= 0; i--) {
-            ans[i] = pq.remove().ele;
+                }
+            
+           
+            
+        }
+         ans.add(val);
+        map.remove(val);
+        k--;
+
+        }
+        int[] result = new int[ans.size()];
+
+        for (int i = 0; i < ans.size(); i++) {
+            result[i] = ans.get(i);
         }
 
-        return ans;
-
+        return result;
         
+
+
     }
 }
