@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akash23332/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash23332/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/akash23332/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/akash23332/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/akash23332/LeetCode/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akash23332/LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/akash23332/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akash23332/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash23332/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
