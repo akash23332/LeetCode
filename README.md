@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akash23332/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/akash23332/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/akash23332/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/akash23332/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/akash23332/LeetCode/tree/master/0326-power-of-three) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash23332/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akash23332/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akash23332/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/akash23332/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash23332/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/akash23332/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/akash23332/LeetCode/tree/master/0217-contains-duplicate) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akash23332/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/akash23332/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akash23332/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/akash23332/LeetCode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/akash23332/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/akash23332/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash23332/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
