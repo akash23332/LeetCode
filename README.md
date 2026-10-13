@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akash23332/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/akash23332/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/akash23332/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akash23332/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akash23332/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/akash23332/LeetCode/tree/master/0231-power-of-two) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/akash23332/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akash23332/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akash23332/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/akash23332/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akash23332/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash23332/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akash23332/LeetCode/tree/master/0079-word-search) |
