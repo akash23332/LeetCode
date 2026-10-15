@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akash23332/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akash23332/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/akash23332/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/akash23332/LeetCode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/akash23332/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/akash23332/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/akash23332/LeetCode/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/akash23332/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0904-fruit-into-baskets](https://github.com/akash23332/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
@@ -579,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/akash23332/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/akash23332/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
