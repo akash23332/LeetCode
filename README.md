@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akash23332/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akash23332/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akash23332/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0485-max-consecutive-ones](https://github.com/akash23332/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/akash23332/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/akash23332/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/akash23332/LeetCode/tree/master/0523-continuous-subarray-sum) |
