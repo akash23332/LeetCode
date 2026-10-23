@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akash23332/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash23332/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/akash23332/LeetCode/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/akash23332/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash23332/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/akash23332/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akash23332/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/akash23332/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/akash23332/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash23332/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/akash23332/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akash23332/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akash23332/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Database
