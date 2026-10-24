@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/akash23332/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0904-fruit-into-baskets](https://github.com/akash23332/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
+| [0941-valid-mountain-array](https://github.com/akash23332/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akash23332/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash23332/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
