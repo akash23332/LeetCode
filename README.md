@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akash23332/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash23332/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/akash23332/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/akash23332/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/akash23332/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash23332/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akash23332/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/akash23332/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash23332/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/akash23332/LeetCode/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/akash23332/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akash23332/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akash23332/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/akash23332/LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/akash23332/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/akash23332/LeetCode/tree/master/1051-height-checker) |
 | [1079-letter-tile-possibilities](https://github.com/akash23332/LeetCode/tree/master/1079-letter-tile-possibilities) |
 ## Geometry
 |  |
@@ -608,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/akash23332/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/akash23332/LeetCode/tree/master/0739-daily-temperatures) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/akash23332/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
