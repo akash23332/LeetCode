@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/akash23332/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/akash23332/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/akash23332/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/akash23332/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/akash23332/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akash23332/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/akash23332/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akash23332/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akash23332/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/akash23332/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akash23332/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash23332/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
