@@ -4,23 +4,32 @@ class Solution {
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
+            
         }
-        String a="";
+        String str="";
         while(map.size()>0){
             int max=0;
-            char ch=' ';
+            char a=' ';
             for(char c:map.keySet()){
-                if(map.get(c)>max){
+                if(map.get(c)>=max){
                     max=map.get(c);
-                    ch=c;
+                    a=c;
+
                     
                 }
+
             }
-            for(int i= 1;i<=max;i++){
-                a+=ch;
+            for(int i=1;i<=max;i++){
+                str+=a;
             }
-            map.remove(ch);
+            map.remove(a);
+            
         }
-        return a;
+        return str;
+        
+
+
+
+        
     }
 }
