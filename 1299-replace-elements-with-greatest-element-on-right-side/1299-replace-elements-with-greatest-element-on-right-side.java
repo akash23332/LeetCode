@@ -1,20 +1,16 @@
 class Solution {
-    
-    
     public int[] replaceElements(int[] arr) {
-        int res[] = new int[arr.length];
-      
-        int max=-1;
-       for(int j=arr.length-1;j>=0;j--){
-        res[j]=max;
-        if(arr[j]>max){
-            max=arr[j];
-        }
-        
-       
-        
-        }
-       return res;
+        ArrayList<Integer> ans=new ArrayList<>();
+       int max=-1;
+       for(int i=arr.length-1;i>=0;i--){
+           ans.add(0,max);
+           max=Math.max(arr[i],max);
+       }
+       int[] a=new int[ans.size()];
+       for(int i=0;i<ans.size();i++){
+        a[i]=ans.get(i);
+       }
+        return a;
         
     }
 }
